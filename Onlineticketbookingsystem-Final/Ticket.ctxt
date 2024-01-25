@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ticket
+comment1.params=ticketId\ customer\ seat\ price
+comment1.target=Ticket(int,\ Customer,\ Seat,\ double)
+comment2.params=
+comment2.target=int\ getTicketId()
+comment3.params=
+comment3.target=Customer\ getCustomer()
+comment4.params=
+comment4.target=Seat\ getSeat()
+comment5.params=
+comment5.target=double\ getPrice()
+numComments=6

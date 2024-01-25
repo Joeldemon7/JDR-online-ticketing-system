@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TicketMachine
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ initializeSeats()
+comment3.params=
+comment3.target=void\ displayMenu()
+comment4.params=scanner
+comment4.target=void\ createAccount(java.util.Scanner)
+comment5.params=scanner
+comment5.target=void\ selectSeat(java.util.Scanner)
+comment6.params=scanner
+comment6.target=void\ reserveTicket(java.util.Scanner)
+comment7.params=
+comment7.target=void\ displayAvailableSeats()
+numComments=8
